@@ -20,7 +20,7 @@ async def runme():
 def initializer():
     asyncio.run(runme())
 
-st.markdown("## S3NTIN4L")
+st.markdown("## S3NTIN3L AI")
 st.markdown("`v.1.0.0` :green-badge[BETA]")
 st.markdown(">A Retrieval Augmented Generation (RAG) powered system to search through a database of criminals and provide accurate results based on the searcher's provided prompt. A BETA variant to demonstrate how AI can give LEAs an Edge. (Expand the below JSON to see the schema of a criminal.)")
 st.json({
