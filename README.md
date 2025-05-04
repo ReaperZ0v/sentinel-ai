@@ -13,7 +13,7 @@
 
 ## 🚀 Overview
 
-**Sentinel AI** is an advanced AI-powered intelligence tool designed to **rapidly search and retrieve criminal data** using **state-of-the-art Retrieval-Augmented Generation (RAG)** techniques. Built with the synergy of modern Python frameworks and AI tools, Sentinel AI blends **Streamlit**, **Tortoise ORM**, **Aerich**, **Ollama**, and **MySQL** to deliver lightning-fast, contextual search and analysis across criminal records databases.
+**Sentinel AI** is an AI-powered tool designed to **rapidly search and retrieve criminal data** using **Retrieval-Augmented Generation (RAG)**. Built with the synergy of modern Python frameworks and AI tools, Sentinel AI blends **Streamlit**, **Tortoise ORM**, **Aerich**, **Ollama**, and **MySQL** to deliver lightning-fast, contextual search and analysis across criminal records databases.
 
 ---
 
