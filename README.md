@@ -1,5 +1,5 @@
 # 🛡️ Sentinel AI
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="Python Version">
   <img src="https://img.shields.io/badge/Streamlit-1.33.0-ff4b4b?logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql&logoColor=white" alt="MySQL">
